@@ -10,7 +10,7 @@
     margin: 50px auto;
     width: 1340px;
     height: 600px;
-    background: linear-gradient(80deg, #070211 0%, rgba(7, 2, 17, 0)100%), url('/images/bi.png');
+    background: linear-gradient(80deg, #070211 0%, rgba(7, 2, 17, 0)100%), url('bi.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -106,7 +106,7 @@ h3 {
     flex-shrink: 0;
     margin: 50px auto;
     display: flex;
-    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('/images/vector.png');
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('vector.png');
     background-repeat: no-repeat;
     justify-content: center;
     border-radius: 16px;
@@ -454,7 +454,7 @@ button {
     width: 1320px;
     margin: 40px auto;
     height: 890px;
-    background-image: url('/images/rectangle2.png'), url('/images/rectangle1.png');
+    background-image: url('rectangle2.png'), url('rectangle1.png');
     background-position: bottom center, right center;
     background-repeat: no-repeat;
 
